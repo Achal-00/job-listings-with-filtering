@@ -1,6 +1,6 @@
 import React from "react";
 import TopImage from "./TopImage/TopImage";
-import ListSection from "./ListSection.jsx/ListSection";
+import ListSection from "./ListSection/ListSection";
 
 export default function App() {
   return (
